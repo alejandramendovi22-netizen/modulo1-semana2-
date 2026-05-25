@@ -1,0 +1,5 @@
+pwf
+is
+mkdir
+cd
+touch
